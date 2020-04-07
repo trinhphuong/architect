@@ -1,8 +1,8 @@
 {
-    "name": "optimus/architect",
+    "name": "phuongtt/architect",
     "autoload": {
         "psr-4": {
-            "Optimus\\Architect\\": "src/"
+            "Phuongtt\\Architect\\": "src/"
         }
     },
     "require": {
